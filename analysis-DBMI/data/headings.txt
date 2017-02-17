@@ -1,0 +1,595 @@
+% Change of Co-administered Drug Pharmacokinetic Parameters (90% CI)
+
+AED Co-administered
+
+AED Coadministered
+
+AED Concentration
+
+AEDCo-administered
+
+AEDConcentration
+
+AED  Co - administered
+
+AED  Coadministered
+
+AED  Concentration
+
+AED Coadministered
+
+AED Concentration
+
+AUC
+
+AUC ofCoadministeredDrug (95% CI)
+
+AUC ofCoadministeredDrug(90% CI)
+
+AUC ofDidanosine(90% CI)
+
+AUC ofDidanosine(95% CI)
+
+AUC ofStavudine (95% CI)
+
+AUC of Coadministered   Drug(95% CI)
+
+AUC(0-24h)(ng × h/mL)
+
+AUCSS(0–12h)(Extent of systemic exposure)
+
+AUCss(0–12h) (Extent of systemic exposure)
+
+AUC 
+
+Adjusted Dose
+
+Alcohol
+
+Alpha-Blocker
+
+Analgesics: Methadone*
+
+Anti-coagulant drugs
+
+Antiarrhythmics: Amiodarone, disopyramide, lidocaine
+
+Antibiotics
+
+Antibiotics: Clarithromycin*
+
+Antibiotics    
+
+Anticoagulants
+
+Anticoagulants (oral) - Coumarin Derivatives - Indandione Derivatives
+
+Anticoagulants (oral)- Coumarin Derivatives- Indandione Derivatives
+
+Anticonvulsants
+
+Anticonvulsants 
+
+Antiretroviral agents
+
+Antiretrovirals
+
+Benzodiazapines
+
+Beta-Blockers
+
+CLINICAL EFFECT(S)
+
+CLINICAL EFFECT(S)        
+
+CONCOMITANT  DRUG
+
+Caffeine/Xanthine Derivatives
+
+Cardiac Glycosides
+
+Central Nervous System (CNS) Depressants
+
+Classes of Drugs
+
+Classes of Drug
+
+Classes of Drugs
+
+Clinical Comment
+
+Clinical Comment 
+
+Clinical Impact:
+
+Clinical Implications
+
+Clinical Rationale and Magnitude of Drug Interaction
+
+Clinical Recommendation
+
+Clinical Comment 
+
+Cm a x
+
+Cmax
+
+Cmax SS (Peak plasma concentration)
+
+Cmax ofCoadministeredDrug (95% CI)
+
+Cmax ofCoadministeredDrug(90% CI)
+
+Cmax ofDidanosine(90% CI)
+
+Cmax ofDidanosine(95% CI)
+
+Cmax of Coadministered   Drug(95% CI)
+
+Cmax of Stavudine(95% CI)
+
+Cmax(ng/mL)
+
+CmaxSS(Peak plasma concentration)
+
+Cmax 
+
+Cmin
+
+Co-administered Drug
+
+Co-administered Drug Dose (Schedule)
+
+Co-administered Drug 
+
+Coadministered Drug
+
+Coadministered Drug  
+
+Coadministered drug
+
+Coadministered Drug
+
+Comments
+
+Concomitant Drug
+
+Concomitant Drug Class or Food
+
+Concomitant Drug Class: Drug Name
+
+Concomitant Drug Class:Drug Name
+
+Concomitant Drug Class:Specific Drugs
+
+Concomitant Drug Name or Drug Class
+
+Concomitant Drug 
+
+Concomitant Drug
+
+Conjugated Estrogens
+
+Conjugated Estrogens plus PROMETRIUM Capsules
+
+Conjugated Estrogens plus Progesterone Capsules
+
+Corticosteroids
+
+Cyclosporine
+
+DESCRIPTION OF INTERACTION
+
+DISCRIPTION OF INTERACTION
+
+Didanosine Dosage
+
+DidanosineDosage
+
+Diluent
+
+Dosage Adjustment of Aripiprazole
+
+Dose Regimen of Immediate-Release Nevirapine
+
+Dose Regimen of Nevirapine
+
+Dose of AED(mg/day)
+
+Dose of Azithromycin
+
+Dose of CRIXIVAN (mg)
+
+Dose of Co-administered Drug
+
+Dose of Coadministered Drug
+
+Dose of Coadministered drug (mg)
+
+Dose/Schedule of Co-administered Drug
+
+Dosing Recommendations
+
+Dosing Schedule
+
+Dosing Schedule 
+
+Dosing Schedule
+
+Drug
+
+Drug Class
+
+Drug Class: Drug Name
+
+Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis (2.2, 4, 5.2, 7.1, 7.2, 7.3, 7.4, 12.3)
+
+Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis (2.6, 5.1, 7, 12.3)
+
+Drug Name
+
+Drug Name  
+
+Drug Plasma Exposure (Cmax and AUC?)
+
+Drug Plasma Exposure(Cmax and AUC?)
+
+Drug or Drug Class
+
+Drug(s)
+
+Drug(s) Affecting Pharmacokinetics of CIPRO XR
+
+Drug(s) Affecting Pharmacokinetics of Ciprofloxacin Tablets, USP
+
+Drug(s) with Pharmacokinetics Affected by KETEK(Mechanism of interaction, if known)
+
+Drug/Drug Class(Mechanism of Interaction by Voriconazole)
+
+Drug/Drug Class(Mechanism of Interaction by the Drug)
+
+Drug/Drug Class(Mechanism ofInteraction by Voriconazole)
+
+Drug/Drug Class(Mechanism ofInteraction by the Drug)
+
+Drugs Known to Prolong QT Interval
+
+Drugs That Are Affected By KETEK
+
+Drugs That Interfere with Hemostasis
+
+Drugs That May Increase the Risk of Hypoglycemia
+
+Drugs That are Affected by CIPRO
+
+Drugs That are Affected by CIPRO IV
+
+Drugs That are Affected by Ciprofloxacin
+
+Drugs That are Affected by Ciprofloxacin Tablets, USP
+
+Drugs known to prolong QT interval (e.g., Class IA and Class III anti-arrhythmic agents).
+
+Drugs that alter thyroid hormone secretion
+
+Drugs that may alter T 4 and T 3 metabolism
+
+Drugs that may alter T 4 and T 3 serum transport - but FT 4 concentration remains normal; and, therefore, the patient remains euthyroid
+
+Drugs that may alter T4 and T3 metabolism
+
+Drugs that may alter T4 and T3 serum transport- but FT4 concentration remains normal; and, therefore, the patient remains euthyroid
+
+Drugs that may cause protein-binding site displacement
+
+Drugs that may decrease
+
+Drugs that may decrease T 4 5' - deiodinase activity
+
+Drugs that may decrease T 4 absorption, which may result in hypothyroidism
+
+Drugs that may decrease T4 5'-deiodinase activity
+
+Drugs that may decrease T4 absorption, which may result in hypothyroidism
+
+Drugs that may decrease serum TBG concentration
+
+Drugs that may decrease thyroid hormone secretion, which may result in hypothyroidism
+
+Drugs that may decrease thyroid hormone secretion, which mayresult in hypothyroidism
+
+Drugs that may increase
+
+Drugs that may increase hepatic metabolism, which may result in hypothyroidism
+
+Drugs that may increase hepatic metabolism, whichmay resultin hypothyroidism
+
+Drugs that may increase serum TBG concentration
+
+Drugs that may increase thyroid hormone secretion, which may result in hyperthyroidism
+
+Drugs that may increase thyroid hormone secretion, whichmay result in hyperthyroidism
+
+Drugs that may reduce TSH secretion - the reduction is not sustained; therefore, hypothyroidism does not occur
+
+Drugs that may reduce TSH secretion –the reduction is not sustained; therefore, hypothyroidism does not occur
+
+Drugs that may reduce TSH secretion–the reduction is not sustained; therefore, hypothyroidism does not occur
+
+Drugs with a known interaction with colesevelam: Decrease in exposure of coadministered drug
+
+Drugs with a known interaction with colesevelam:Decrease in exposure of coadministered drug
+
+Drugs:
+
+EFFECT
+
+Effect
+
+Effect on Active Moiety (Risperidone + 9-Hydroxy-Risperidone (RatioChange relative to reference) 
+
+Effect on Active Moiety(Risperidone + 9- Hydroxy-Risperidone (Ratio*)
+
+Effect on Concentration
+
+Effect on Concentration of Atazanavir or Concomitant Drug
+
+Effect on Concentration of Etravirine or Concomitant Drug
+
+Effect on Concentration of Lamotrigine or Concomitant Drug
+
+Effect on Concentration of Nevirapine or Concomitant Drug
+
+Effect on Concentration of Rilpivirine or Concomitant Drug
+
+Effect on Concentration of Ritonavir or Concomitant Drug
+
+Effect on Concentration of   Nevirapine or                               Concomitant Drug
+
+Effect on concentration of Nevirapine or Concomitant drug
+
+Effect onConcentration of Saquinavir or Concomitant Drug
+
+Effect onConcentration ofLamotrigine orConcomitant Drug
+
+Effect**
+
+Effect on Active Moiety (Risperidone + 9- Hydroxy- Risperidone (Ratio*)
+
+Effect on ActiveMoiety(Risperidone + 9-Hydroxy-Risperidone (Ratio*)
+
+Effect on ActiveMoiety (Risperidone + 9-Hydroxy- Risperidone (Ratio*)
+
+Effect on Concentration of Lamotrigine or  Concomitant Drug
+
+Enzyme
+
+Enzyme (CYP2D6) Inhibitors
+
+Enzyme (CYP2D6) Inhibitors
+
+Enzyme (CYP2D6)Inhibitors
+
+Enzyme (CYP2D6) Inhibitors 
+
+Enzyme (CYP3A) Inhibitors
+
+Enzyme (CYP3A)Inhibitors
+
+Enzyme (CYP3A/ PgP inducers) Inducers
+
+Exposure
+
+Factors
+
+Factors 
+
+Females(n=14)
+
+Glucocorticoids
+
+HIV Antiviral Agents
+
+HIV Antiviral Agents: Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)
+
+HIV Antiviral Agents: Protease Inhibitors (PIs)
+
+HIV-1-Antiviral Agents: Nucleoside Reverse Transcriptase Inhibitors (NRTIs)
+
+Hepatitis C Antiviral Agents
+
+Hepatitis C Antiviral Agents  
+
+Inducers
+
+Influence of AED on MHD Concentration(Mean Change, 90% Confidence Interval)
+
+Influence of Oxcarbazepine on AED Concentration(Mean Change, 90% Confidence Interval)
+
+Inhibitors
+
+Interacting Agents
+
+Interacting Drug
+
+Interacting DrugInteracting Drug
+
+Interacting  Agents 
+
+Interacting  Drug
+
+Interacting  Drug 
+
+Interacting Agents 
+
+Interacting Drug 
+
+Interaction
+
+Interaction Drug
+
+InteractionInteraction
+
+Interaction 
+
+Known CYP2D6 Poor Metabolizers
+
+Known CYP2D6 Poor Metabolizers and strong CYP3A4 inhibitors
+
+Males(n=106)
+
+Mean (SD) Noncompartmental Pharmacokinetic Parameters After Multiple Doses of 5 mg/day in Older Men
+
+Mean (SD) Pharmacokinetic Parameters in Healthy Young Subjects (n=15)
+
+Mean (± SD)
+
+Mean AUC
+
+Mean Cmax
+
+Methotrexate
+
+Miscellaneous
+
+NSAIDs
+
+Name of the Concomitant Drug
+
+Noted or anticipated Outcome
+
+OATP1B1 Inhibitors
+
+OATP1B1 and BCRP Substrate
+
+Oral antidiabetic drugs
+
+Oral drugs for which sevelamer did not alter the pharmacokinetics when administered concomitantly
+
+Oral drugs that are to be separated from Velphoro and meals
+
+Oral drugs that have demonstrated interaction with sevelamer and are to be dosed separately from Renagel
+
+Oral drugs that have demonstrated interaction with sevelamer and are to be dosed separately from Renvela
+
+Oral drugs that have to be separated from Auryxia and meals
+
+Oral drugs that have to be separated from Phoslyra
+
+Oral drugs thathave demonstrated interaction with sevelamer and are to be dosed separately from Renvela
+
+Other Agents
+
+Other Drugs /   Dietary Supplements
+
+Other Drugs/Dietary Supplements  
+
+Oxcarbazepine Dose(mg/day)
+
+Prescribing Recommendations
+
+Prescribing Recommendations for LIPTRUZET
+
+Prescribing  Recommendations 
+
+Prescribing Recommendations 
+
+Prescribing Recommendations  
+
+Radiographic Agents
+
+Ratio (90% Confidence Interval) of Co-administered DrugPharmacokinetic Parameters with/withouttipranavir/ritonavir; No Effect = 1.00
+
+Ratio (90% Confidence Interval) of Tipranavir Pharmacokinetic Parameters with/withoutCo-administered Drug; No Effect = 1.00
+
+Ratio (with/without CRIXIVAN) of Coadministered DrugPharmacokinetic Parameters (90% CI); No Effect = 1.00
+
+Ratio (with/without azithromycin) of Coadministered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00
+
+Ratio (with/without coadministered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1.00
+
+Ratio (with/without coadministered drug) of IndinavirPharmacokinetic Parameters (90% CI); No Effect = 1.00
+
+Recommendation
+
+Recommendation(Exposure)
+
+Recommendations for Drug Dosage Adjustment/Comments
+
+Recommendations for DrugDosage Adjustment/Comments
+
+Recommendations for Voriconazole Dosage Adjustment/Comments
+
+Recommendations for VoriconazoleDosage Adjustment/Comments
+
+Recommendations forVoriconazole Dosage Adjustment/Comments
+
+Risperidone Dose Recommendation
+
+Risperidone Dose Recommendation 
+
+Risperidone Dose Recommendation
+
+Risperidone DoseRecommendation
+
+Specific Drugs
+
+Specific Drugs Reported
+
+Stavudine  Dosage
+
+Strong CYP3A4 Inducers (e.g., carbamazepine, rifampin)
+
+Strong CYP3A4 Inhibitors (e.g., itraconazole, clarithromycin) or strong CYP2D6 inhibitors (e.g., quinidine, fluoxetine, paroxetine)
+
+Strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors,boceprevir, telaprevir, nefazodone), gemfibrozil, cyclosporine, danazol
+
+Strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, boceprevir, telaprevir, nefazodone, cobicistatcontaining products), gemfibrozil, cyclosporine, danazol 
+
+Sympathomimetics
+
+TOPAMAX Concentration
+
+Tmax(hr)
+
+Topiramate Concentration
+
+TopiramateConcentration
+
+Topiramate  Concentration
+
+Topiramate Concentration
+
+Type Of Interaction
+
+Type of Interaction
+
+Vardenafil 10 mgPlacebo-subtracted
+
+Vardenafil 20 mgPlacebo-subtracted
+
+Vardenafil10 mgPlacebo-Subtracted
+
+Vardenafil20 mgPlacebo-Subtracted
+
+Voriconazole Plasma Exposure (Cmax and AUC? after 200 mg q12h)
+
+Voriconazole Plasma Exposure(Cmax and AUC? after 200 mg q12h)
+
+Voriconazole Plasma Exposure(Cmax and AUC? after200 mg Q12h)
+
+Voriconazole PlasmaExposure(Cmax and AUC? after200 mg q12h)
+
+blood dyscrasias - see cancer collagen vascular disease congestive heart failureCONTRAINDICATIONS
+
+blood dyscrasias - seeCONTRAINDICATIONS cancercollagen vascular diseasecongestive heart failure
+
+blood dyscrasias -  see CONTRAINDICATIONS cancercollagen vascular diseasecongestive heart failure
+
+edema hereditary coumarin resistance hyperlipemia
+
+edemahereditary coumarin resistancehyperlipemia
+
+n
+
+serum TBG concentration
